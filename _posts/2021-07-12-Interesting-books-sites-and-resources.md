@@ -60,3 +60,6 @@ date: 2021-07-12
 * [Art of Problem Solving](https://artofproblemsolving.com/)
 * [Superuser](https://superuser.com/)
 * [MathOverflow](https://mathoverflow.net/)
+* [Financial Times](https://www.ft.com/)
+* [The New Yorker](https://www.newyorker.com/)
+* [Quanta Magazine](https://www.quantamagazine.org/)
