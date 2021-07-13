@@ -5,11 +5,9 @@ date: 2021-07-12
 ---
 
 # Finance
-[Quantitative Trading Summary by HeadlandsTech](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
-
-[Jane Street talks](https://blog.janestreet.com/watch-all-of-jane-streets-tech-talks/)
-
-[The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution](https://www.worldcat.org/title/man-who-solved-the-market-how-jim-simons-launched-the-quaint-revolution/oclc/1126569133&referer=brief_results)
+⋅⋅*[Quantitative Trading Summary by HeadlandsTech](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
+⋅⋅*[Jane Street talks](https://blog.janestreet.com/watch-all-of-jane-streets-tech-talks/)
+⋅⋅*[The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution](https://www.worldcat.org/title/man-who-solved-the-market-how-jim-simons-launched-the-quaint-revolution/oclc/1126569133&referer=brief_results)
 
 ## Banking/Savings
 [Charles Schwab Investor Checking (No ATM fees + offers MFA)](https://www.schwab.com/checking)
