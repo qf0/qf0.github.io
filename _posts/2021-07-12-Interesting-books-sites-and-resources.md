@@ -36,6 +36,9 @@ date: 2021-07-12
 * [Stanford's Data Sanitization guide](https://uit.stanford.edu/security/data-sanitization)
 * [Columbia's Travel Security Guide](https://cuit.columbia.edu/data-security-guidelines-international-travel)
 * [Qube's site](https://www.qubes-os.org/)
+* [Microsoft's Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download)
+* [Microsoft's Security Blog](https://www.microsoft.com/security/blog/)
+* [KrebsonSecurity](https://krebsonsecurity.com/)
 
 # Education
 * [Department of Education Accreditation Search](https://ope.ed.gov/dapip/#/home)
