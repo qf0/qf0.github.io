@@ -63,3 +63,4 @@ date: 2021-07-12
 * [Financial Times](https://www.ft.com/)
 * [The New Yorker](https://www.newyorker.com/)
 * [Quanta Magazine](https://www.quantamagazine.org/)
+* [Spectrum News](https://www.spectrumnews.org/)
