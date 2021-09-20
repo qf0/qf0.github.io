@@ -58,6 +58,8 @@ date: 2021-07-12
 # Websites
 * [Hacker News](https://news.ycombinator.com/)
 * [Art of Problem Solving](https://artofproblemsolving.com/)
+* [OpenStax](https://openstax.org/)
+* [Khan Academy](https://www.khanacademy.org/)
 * [Superuser](https://superuser.com/)
 * [MathOverflow](https://mathoverflow.net/)
 * [Financial Times](https://www.ft.com/)
