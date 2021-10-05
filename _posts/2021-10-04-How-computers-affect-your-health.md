@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How computers affect your health"
-date: 2021-10-03
+date: 2021-10-04
 ---
 
 # Preamble
