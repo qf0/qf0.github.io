@@ -4,7 +4,7 @@ title: "Interesting books, sites, and resources"
 date: 2021-07-12
 ---
 
-# Finance
+## Finance
 * [Quantitative Trading Summary by HeadlandsTech](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
 * [Jane Street talks](https://blog.janestreet.com/watch-all-of-jane-streets-tech-talks/)
 * [The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution](https://www.worldcat.org/title/man-who-solved-the-market-how-jim-simons-launched-the-quaint-revolution/oclc/1126569133&referer=brief_results)
@@ -30,7 +30,7 @@ date: 2021-07-12
 * [Learning Python](https://www.worldcat.org/title/learning-python/oclc/1061273329)
 * [Oxford's Computer Science reading/resources](https://www.cs.ox.ac.uk/admissions/undergraduate/why_oxford/background_reading.html)
 
-# Security
+## Security
 * [Out of the Inner Circle](https://openlibrary.org/books/OL2862523M/Out_of_the_inner_circle)
 * [The Masters of Deception](https://openlibrary.org/works/OL3507968W/Masters_of_deception?edition=mastersofdecepti00slat)
 * [Stanford's Data Sanitization guide](https://uit.stanford.edu/security/data-sanitization)
