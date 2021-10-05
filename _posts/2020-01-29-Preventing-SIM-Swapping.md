@@ -4,6 +4,7 @@ title: "Preventing SIM swapping"
 date: 2020-01-29
 ---
 
+## Introduction
 Sim swapping is a modern attack to hijack peoples accounts. In this post, I'll discuss ways to reduce your chances of being SIM swapped.
 
 # How is SIM swapping done?
