@@ -10,11 +10,11 @@ I'm going to talk about the different type of k-12 schools, and colleges there a
 
 # k12
 
-### Public
+## Public
 
 So, public k12 schools quality seem to vary by the location. From my personal experience my k12 education wasn't great. There are non profits that pay teachers more money to decrease the turnover rate(https://en.wikipedia.org/wiki/Math_for_America), and teachers for america that place competent teachers in schools that need them the most. https://en.wikipedia.org/wiki/Teach_For_America 
 
-# Private
+## Private
 
 So, there's different types of private schools. There's private homeschools, and college preparatory schools(https://en.wikipedia.org/wiki/College-preparatory_school). I personally think that homeschooling the best option in this day and age. It's cheap (depends on if one parent can afford to be home, or if a tutor could be afforded.), and generally provides a higher quality of education. Many of the IMO, and Mathcount winners were homeschooled. Reid Barton was homeschooled, and later went on to earn his doctorate in Mathematics.
 There are tons of high quality open educational resources like OpenStax, or Khan Academy that can be used as a homeschooling curriculum. There's also good books that can be purchased for homeschooling (Art of Problem Solving books etc.). John Holt was an advocator for homeschooling. He attended Exeter (a prestigious college prep school), studied at Yale, taught k12, and servered in WW2. I recommend reading one of his books, or watching one the YouTube videos with him in it.
