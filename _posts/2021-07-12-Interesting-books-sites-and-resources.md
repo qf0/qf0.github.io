@@ -24,7 +24,7 @@ date: 2021-07-12
 * [IRS/Treasury find CPA etc.](https://irs.treasury.gov/rpo/rpo.jsf)
 * [Natural Diaster prep](https://www.ready.gov/)
 
-# Programming
+## Programming
 * [C++ Concurrency in Action](https://www.worldcat.org/title/c-concurrency-in-action-second-edition/oclc/1099553221)
 * [The Art of Computer Programming](https://www.worldcat.org/title/art-of-computer-programming/oclc/1104392633)
 * [Effective Modern C++](https://www.worldcat.org/title/effective-modern-c-42-specific-ways-to-improve-your-use-of-c11-and-c14/oclc/884480640)
@@ -41,22 +41,22 @@ date: 2021-07-12
 * [Microsoft's Security Blog](https://www.microsoft.com/security/blog/)
 * [KrebsonSecurity](https://krebsonsecurity.com/)
 
-# Education
+## Education
 * [Department of Education Accreditation Search](https://ope.ed.gov/dapip/#/home)
 * [Find Community/City College by State](https://aefla.ed.gov/state-contacts)
 * [Department of Education College Scorecard](https://collegescorecard.ed.gov/)
 
-# Book Resources
+## Book Resources
 * [Open Library](https://openlibrary.org/)
 * [WordCat](https://www.worldcat.org/)
 * Sometimes a local library can get a book to loan to you. 
 
-# ISP/Phone
+## ISP/Phone
 * [Google Fi](https://fi.google.com/about/)
 * [Google Fiber](https://fiber.google.com/)
 * [Google Advance Protection](https://landing.google.com/advancedprotection/)
 
-# Websites
+## Websites
 * [Hacker News](https://news.ycombinator.com/)
 * [Art of Problem Solving](https://artofproblemsolving.com/)
 * [OpenStax](https://openstax.org/)
