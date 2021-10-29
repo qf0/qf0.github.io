@@ -2,7 +2,7 @@ Oh, well hello there stranger! Thanks for checking out my Blog/Website.
 
 ## About this Website/Blog
 
-This blog is where I post my ramblings, thoughts, write ups, and stories. Mostly related to computer security.
+This blog is where I post my ramblings, thoughts, write ups, and stories. I mainly post about things related to computer security.
 
 ## Pull requests welcome!
 
