@@ -1,8 +1,8 @@
-Oh, well hello there stranger! Thanks for checking out my Blog/Website.
+Oh, well hello there stranger! Thanks for checking out my weblog/Website.
 
 ## About this Website/Blog
 
-This blog is where I post my ramblings, thoughts, write ups, and stories. I mainly post about things related to computer security.
+This blog is where I post my ramblings, thoughts, write ups, and stories. I mainly post about things related to computer security. I got the motivation to create this website/weblog from Aaron Swartz's weblog (https://www.aaronsw.com).
 
 ## Pull requests welcome!
 
