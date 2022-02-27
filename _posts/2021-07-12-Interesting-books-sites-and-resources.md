@@ -55,8 +55,8 @@ date: 2021-07-12
 ## Book Resources
 * [Open Library](https://openlibrary.org/)
 * [WordCat](https://www.worldcat.org/)
-* [isbn.nu/](https://isbn.nu/)
-* [isbn search](https://isbnsearch.org/)
+* [isbn.nu](https://isbn.nu/)
+* [isbn search](https://isbnsearch.org/) (Found on Stonybrook's website)
 * Sometimes a local library can get a book to loan to you. 
 
 ## ISP/Phone
