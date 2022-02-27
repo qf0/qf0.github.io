@@ -8,6 +8,8 @@ date: 2021-07-12
 * [Quantitative Trading Summary by HeadlandsTech](https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/)
 * [Jane Street talks](https://blog.janestreet.com/watch-all-of-jane-streets-tech-talks/)
 * [The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution](https://www.worldcat.org/title/man-who-solved-the-market-how-jim-simons-launched-the-quaint-revolution/oclc/1126569133&referer=brief_results)
+* [When Genius Fails](https://en.wikipedia.org/wiki/When_Genius_Failed)
+* [More Money Than God](https://en.wikipedia.org/wiki/More_Money_Than_God)
 
 ## Banking/Savings
 * [Charles Schwab Investor Checking (No ATM fees + offers MFA)](https://www.schwab.com/checking)
@@ -30,6 +32,10 @@ date: 2021-07-12
 * [Effective Modern C++](https://www.worldcat.org/title/effective-modern-c-42-specific-ways-to-improve-your-use-of-c11-and-c14/oclc/884480640)
 * [Learning Python](https://www.worldcat.org/title/learning-python/oclc/1061273329)
 * [Oxford's Computer Science reading/resources](https://www.cs.ox.ac.uk/admissions/undergraduate/why_oxford/background_reading.html)
+* The C Programming Language
+* The C++ Programing Language
+* The Java Programming language
+* Effective Java
 
 ## Security
 * [Out of the Inner Circle](https://openlibrary.org/books/OL2862523M/Out_of_the_inner_circle)
@@ -49,6 +55,8 @@ date: 2021-07-12
 ## Book Resources
 * [Open Library](https://openlibrary.org/)
 * [WordCat](https://www.worldcat.org/)
+* [isbn.nu/](https://isbn.nu/)
+* [isbn search](https://isbnsearch.org/)
 * Sometimes a local library can get a book to loan to you. 
 
 ## ISP/Phone
