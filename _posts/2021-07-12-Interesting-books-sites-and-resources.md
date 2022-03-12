@@ -25,6 +25,7 @@ date: 2021-07-12
 * [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
 * [IRS/Treasury find CPA etc.](https://irs.treasury.gov/rpo/rpo.jsf)
 * [Natural Diaster prep](https://www.ready.gov/)
+* [Labor rights](https://www.worker.gov/)
 
 ## Programming
 * [C++ Concurrency in Action](https://www.worldcat.org/title/c-concurrency-in-action-second-edition/oclc/1099553221)
@@ -62,7 +63,20 @@ date: 2021-07-12
 ## ISP/Phone
 * [Google Fi](https://fi.google.com/about/)
 * [Google Fiber](https://fiber.google.com/)
-* [Google Advance Protection](https://landing.google.com/advancedprotection/)
+* [Google Advance Protection](https://landing.google.com/advancedprotection/) 
+
+## Interview prep and self learning CS resources
+* [Missing part of my CS education](https://missing.csail.mit.edu/)
+* [teachyourselfcs](https://teachyourselfcs.com/)
+* [Jane Street's interview prep weblog post](https://blog.janestreet.com/interviewing-at-jane-street/)
+* [Another Jane Street weblog post about interviewing](https://blog.janestreet.com/what-a-jane-street-dev-interview-is-like/)
+* [Two Sigma interview prep](https://www.twosigma.com/articles/watch-how-to-ace-a-technical-interview/)
+* [Google's interview prep](https://techdevguide.withgoogle.com/resources/topics/interview-prep/?no-filter=true)
+* [Meta's interview prep](https://facebookrecruiting.com/)
+* [interviewcake](https://www.interviewcake.com/)
+* [leetcode](https://leetcode.com/)
+* elements of programming interviews books
+* purple squirrel book
 
 ## Websites
 * [Hacker News](https://news.ycombinator.com/)
