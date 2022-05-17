@@ -53,6 +53,12 @@ date: 2021-07-12
 * [Find Community/City College by State](https://aefla.ed.gov/state-contacts)
 * [Department of Education College Scorecard](https://collegescorecard.ed.gov/)
 
+## Books/Authors/Misc
+
+* Thomas Sowell
+* Moral of mazes
+* Nickel and dimed 
+
 ## Book Resources
 * [Open Library](https://openlibrary.org/)
 * [WordCat](https://www.worldcat.org/)
