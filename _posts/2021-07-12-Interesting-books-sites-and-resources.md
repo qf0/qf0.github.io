@@ -56,6 +56,7 @@ date: 2021-07-12
 ## Books/Authors/Misc
 
 * Thomas Sowell
+* John Holt
 * Moral of mazes
 * Nickel and dimed 
 
