@@ -64,10 +64,10 @@ date: 2021-07-12
 
 ## Movies
 
-# Horror
+### Horror
 The Babadook
 
-# Misc
+### Misc
 Hot Fuzz
 
 ## Book Resources
