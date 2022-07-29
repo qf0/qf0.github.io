@@ -62,6 +62,14 @@ date: 2021-07-12
 * Moral of mazes
 * Nickel and dimed 
 
+## Movies
+
+# Horror
+The Babadook
+
+# Misc
+Hot Fuzz
+
 ## Book Resources
 * [Open Library](https://openlibrary.org/)
 * [WordCat](https://www.worldcat.org/)
