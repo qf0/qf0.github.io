@@ -111,3 +111,6 @@ The Good Place
 * [The New Yorker](https://www.newyorker.com/)
 * [Quanta Magazine](https://www.quantamagazine.org/)
 * [Spectrum News](https://www.spectrumnews.org/)
+* [TorrentFreak](https://torrentfreak.com/)
+* [Slashdot](https://slashdot.org/)
+* [Boing Boing](https://boingboing.net/)
