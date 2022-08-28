@@ -62,7 +62,7 @@ date: 2021-07-12
 * Moral of mazes
 * Nickel and dimed 
 
-## Movies
+## Movies & TV Shows
 
 ### Horror
 The Babadook
@@ -70,6 +70,10 @@ The Babadook
 ### Misc
 Hot Fuzz
 Predestination
+The Prisoner
+The Simpsons
+Community
+The Good Place
 
 ## Book Resources
 * [Open Library](https://openlibrary.org/)
