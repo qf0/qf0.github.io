@@ -65,15 +65,19 @@ date: 2021-07-12
 ## Movies & TV Shows
 
 ### Horror
-The Babadook
+* The Babadook
+* Sinister
+* V/H/S
 
 ### Misc
-Hot Fuzz
-Predestination
-The Prisoner
-The Simpsons
-Community
-The Good Place
+* Hot Fuzz
+* Predestination
+* The Prisoner
+* The Simpsons
+* Community
+* The Good Place
+* The Wire
+* The Sopranos
 
 ## Book Resources
 * [Open Library](https://openlibrary.org/)
