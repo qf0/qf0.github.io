@@ -11,6 +11,10 @@ date: 2021-07-12
 * [When Genius Fails](https://en.wikipedia.org/wiki/When_Genius_Failed)
 * [More Money Than God](https://en.wikipedia.org/wiki/More_Money_Than_God)
 
+## Charity
+* GiveWell https://en.wikipedia.org/wiki/GiveWell 
+* Effective altruism https://en.wikipedia.org/wiki/Effective_altruism
+
 ## Banking/Savings
 * [Charles Schwab Investor Checking (No ATM fees + offers MFA)](https://www.schwab.com/checking)
 * [Pentagon Federal Credit Union's Saving Account (0.45 APY)](https://www.penfed.org/accounts/premium-online-savings)
