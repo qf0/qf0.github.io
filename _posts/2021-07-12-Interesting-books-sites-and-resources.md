@@ -82,6 +82,7 @@ date: 2021-07-12
 * The Good Place
 * The Wire
 * The Sopranos
+* Garden State 04
 
 ## Book Resources
 * [Open Library](https://openlibrary.org/)
