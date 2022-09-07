@@ -11,6 +11,10 @@ date: 2021-07-12
 * [When Genius Fails](https://en.wikipedia.org/wiki/When_Genius_Failed)
 * [More Money Than God](https://en.wikipedia.org/wiki/More_Money_Than_God)
 
+## Shortcuts/keybinds
+* shift + questionmark to show menu of keybinds on gmail.
+
+
 ## Charity
 * GiveWell https://en.wikipedia.org/wiki/GiveWell 
 * Effective altruism https://en.wikipedia.org/wiki/Effective_altruism
