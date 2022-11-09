@@ -14,10 +14,32 @@ date: 2021-07-12
 ## Shortcuts/keybinds
 * shift + questionmark to show menu of keybinds on gmail.
 
+## Interesting people
+* John Holt
+* Reid Barton
+* Jack Parsons
+* John Mcafee
+* George Hotz
+* Aaron Swartz
+* Martin Shkreli
+* David Goggins
+* Jim Simons
+* Thomas Sowell
+* Kate Warne
+* Lynn Conway
+* Herbert O. Yardley
+* Agnes Meyer Driscoll
+* Elizebeth Smith Friedman
+* Genevieve Grotjan Feinstein
+* Ann Z. Caracristi
+* Grace Hopper
+* Ada Lovelance
+* Évariste Galois
+* Paul Morphy
 
 ## Charity
-* GiveWell https://en.wikipedia.org/wiki/GiveWell 
-* Effective altruism https://en.wikipedia.org/wiki/Effective_altruism
+* [GiveWell](https://en.wikipedia.org/wiki/GiveWell) 
+* [Effective altruism](https://en.wikipedia.org/wiki/Effective_altruism)
 
 ## Banking/Savings
 * [Charles Schwab Investor Checking (No ATM fees + offers MFA)](https://www.schwab.com/checking)
@@ -55,7 +77,7 @@ date: 2021-07-12
 * [Microsoft's Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download)
 * [Microsoft's Security Blog](https://www.microsoft.com/security/blog/)
 * [KrebsonSecurity](https://krebsonsecurity.com/)
-* https://anchor.fm/aolunderground/episodes/
+* [AOL Underground Podcast](https://anchor.fm/aolunderground/episodes/)
 * [Darknet Diaries](https://darknetdiaries.com/episode/)
 
 ## Education
