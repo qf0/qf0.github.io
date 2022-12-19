@@ -12,7 +12,7 @@ date: 2021-07-12
 * [More Money Than God](https://en.wikipedia.org/wiki/More_Money_Than_God)
 
 ## Shortcuts/keybinds
-* shift + questionmark to show menu of keybinds on gmail.
+* Shift & questionmark to show menu of keybinds on gmail.
 
 ## Interesting/Notable OSINT resumes
 * [Aaron Swartz's resume 1](https://web.archive.org/web/20110814215315/http://www.aaronsw.com/about)
@@ -20,29 +20,12 @@ date: 2021-07-12
 * [Steve Job's resume](https://web.archive.org/web/20091126173637/http://homepage.mac.com/steve/Resume.html)
 * [Reid Barton's resume](https://web.archive.org/web/20090824074428/http://web.mit.edu/rwbarton/Public/resume.pdf)
 * [Sergey Brin's resume](http://infolab.stanford.edu/~sergey/resume.html)
+//todo: Find and add the guys resume who attended community college and then worked for Rentech.
 
-## Interesting people
-* John Holt
-* Reid Barton
-* Jack Parsons
-* John Mcafee
-* George Hotz
-* Aaron Swartz
-* Martin Shkreli
-* David Goggins
-* Jim Simons
-* Thomas Sowell
-* Kate Warne
-* Lynn Conway
-* Herbert O. Yardley
-* Agnes Meyer Driscoll
-* Elizebeth Smith Friedman
-* Genevieve Grotjan Feinstein
-* Ann Z. Caracristi
-* Grace Hopper
-* Ada Lovelance
-* Évariste Galois
-* Paul Morphy
+## Interesting Aaron Swartz Blog posts
+* [OG School Stuff](https://web.archive.org/web/20010502005216/http://swartzfam.com/aaron/school/2001/04/05/)
+* [OG School Stuff](https://web.archive.org/web/20021026230934/http://www.aaronsw.com/school/2001/09/13/)
+//todo: find and add all of his Stanford posts, academic research fraud, and Google locking his account temp (2006 est.). 
 
 ## Charity
 * [GiveWell](https://en.wikipedia.org/wiki/GiveWell) 
@@ -86,6 +69,8 @@ date: 2021-07-12
 * [KrebsonSecurity](https://krebsonsecurity.com/)
 * [AOL Underground Podcast](https://anchor.fm/aolunderground/episodes/)
 * [Darknet Diaries](https://darknetdiaries.com/episode/)
+* [secret.club](https://secret.club) //whoops I thought I'd already added this
+* [Eaton Works Blog](https://eaton-works.com/) //Super talented 
 
 ## Education
 * [Department of Education Accreditation Search](https://ope.ed.gov/dapip/#/home)
@@ -98,6 +83,25 @@ date: 2021-07-12
 * John Holt
 * Moral of mazes
 * Nickel and dimed 
+* Reid Barton
+* Jack Parsons
+* John Mcafee
+* George Hotz
+* Aaron Swartz
+* Martin Shkreli
+* David Goggins
+* Jim Simons
+* Kate Warne
+* Lynn Conway
+* Herbert O. Yardley
+* Agnes Meyer Driscoll
+* Elizebeth Smith Friedman
+* Genevieve Grotjan Feinstein
+* Ann Z. Caracristi
+* Grace Hopper
+* Ada Lovelance
+* Évariste Galois
+* Paul Morphy
 
 ## Movies & TV Shows
 
