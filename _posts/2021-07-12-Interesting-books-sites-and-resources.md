@@ -14,6 +14,13 @@ date: 2021-07-12
 ## Shortcuts/keybinds
 * shift + questionmark to show menu of keybinds on gmail.
 
+## Interesting/Notable OSINT resumes
+* [Aaron Swartz's resume 1](https://web.archive.org/web/20110814215315/http://www.aaronsw.com/about)
+* [Aaron Swartz's resume 2](https://web.archive.org/web/20120318224618/http://www.aaronsw.com/resume.txt)
+* [Steve Job's resume](https://web.archive.org/web/20091126173637/http://homepage.mac.com/steve/Resume.html)
+* [Reid Barton's resume](https://web.archive.org/web/20090824074428/http://web.mit.edu/rwbarton/Public/resume.pdf)
+* [Sergey Brin's resume](http://infolab.stanford.edu/~sergey/resume.html)
+
 ## Interesting people
 * John Holt
 * Reid Barton
