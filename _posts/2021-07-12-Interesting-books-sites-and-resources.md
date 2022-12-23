@@ -18,9 +18,11 @@ date: 2021-07-12
 * [Aaron Swartz's resume 1](https://web.archive.org/web/20110814215315/http://www.aaronsw.com/about)
 * [Aaron Swartz's resume 2](https://web.archive.org/web/20120318224618/http://www.aaronsw.com/resume.txt)
 * [Steve Job's resume](https://web.archive.org/web/20091126173637/http://homepage.mac.com/steve/Resume.html)
-* [Reid Barton's resume](https://web.archive.org/web/20090824074428/http://web.mit.edu/rwbarton/Public/resume.pdf)
+* [Reid Barton's resume](https://web.archive.org/web/20090824074428/http://web.mit.edu/rwbarton/Public/resume.pdf) 
 * [Sergey Brin's resume](http://infolab.stanford.edu/~sergey/resume.html)
-//todo: Find and add the guys resume who attended community college and then worked for Rentech.
+
+//todo: Find and add the guys resume who attended community college and then worked for Rentech after earning his PhD.
+//Add the very impressive other RenTech resume
 
 ## Interesting fraudsters etc.
 * [Stephen Glass](https://en.wikipedia.org/wiki/Stephen_Glass)
