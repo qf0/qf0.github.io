@@ -22,6 +22,11 @@ date: 2021-07-12
 * [Sergey Brin's resume](http://infolab.stanford.edu/~sergey/resume.html)
 //todo: Find and add the guys resume who attended community college and then worked for Rentech.
 
+## Interesting fraudsters etc.
+* [Stephen Glass](https://en.wikipedia.org/wiki/Stephen_Glass)
+* https://web.archive.org/web/20051027050024/http://www.aaronsw.com/weblog/001616
+* https://www.thecrimson.com/flyby/article/2010/5/24/yale-later-harvard-caught/
+
 ## Interesting Aaron Swartz Blog posts
 * [OG School Stuff](https://web.archive.org/web/20010502005216/http://swartzfam.com/aaron/school/2001/04/05/)
 * [OG School Stuff](https://web.archive.org/web/20021026230934/http://www.aaronsw.com/school/2001/09/13/)
@@ -60,6 +65,10 @@ date: 2021-07-12
 
 ## Security
 * [Out of the Inner Circle](https://openlibrary.org/books/OL2862523M/Out_of_the_inner_circle)
+* [Wired's Cosmos story](https://www.wired.com/2012/09/cosmo-the-god-who-fell-to-earth/)
+* [Xbox Underground](https://www.wired.com/story/xbox-underground-videogame-hackers/)
+* [Inner Cricle](https://gizmodo.com/the-untold-story-of-the-teen-hackers-who-transformed-th-1770977586)
+* [The_414s](https://en.wikipedia.org/wiki/The_414s)
 * [The Masters of Deception](https://openlibrary.org/works/OL3507968W/Masters_of_deception?edition=mastersofdecepti00slat)
 * [Stanford's Data Sanitization guide](https://uit.stanford.edu/security/data-sanitization)
 * [Columbia's Travel Security Guide](https://cuit.columbia.edu/data-security-guidelines-international-travel)
