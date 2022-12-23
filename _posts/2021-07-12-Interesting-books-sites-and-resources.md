@@ -64,6 +64,9 @@ date: 2021-07-12
 * Effective Java
 
 ## Security
+//Add myg0t/half life 2/Valve things, and ytcracker/cam0 (currently works at Amazon)
+* [Jerome Heckenkamp/Unix Terrorist story TDO](https://en.wikipedia.org/wiki/Jerome_Heckenkamp)
+* [UGNazi hacking group](https://www.buzzfeednews.com/article/josephbernstein/tomi-masters-down-the-rabbit-hole-i-go)
 * [Out of the Inner Circle](https://openlibrary.org/books/OL2862523M/Out_of_the_inner_circle)
 * [Wired's Cosmos story](https://www.wired.com/2012/09/cosmo-the-god-who-fell-to-earth/)
 * [Xbox Underground](https://www.wired.com/story/xbox-underground-videogame-hackers/)
