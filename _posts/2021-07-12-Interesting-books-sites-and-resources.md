@@ -42,6 +42,7 @@ date: 2021-07-12
 * [Charles Schwab Investor Checking (No ATM fees + offers MFA)](https://www.schwab.com/checking)
 * [Pentagon Federal Credit Union's Saving Account (0.45 APY)](https://www.penfed.org/accounts/premium-online-savings)
 * [Marcus by Goldman Sachs 0.50 APY + offers MFA](https://www.marcus.com/us/en/savings/high-yield-savings)
+* [Capital One's 3.30% APY!](https://www.capitalone.com/bank/savings-accounts/online-performance-savings-account/) //i-savings bonds/some CD rates seem better
 
 ## Goverment Resources
 * [US Goverment's Consumer Site](https://www.consumer.gov/)
