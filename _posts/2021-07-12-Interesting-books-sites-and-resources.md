@@ -68,6 +68,7 @@ date: 2021-07-12
 
 ### Python
 * [Learning Python](https://www.worldcat.org/title/learning-python/oclc/1061273329)
+* NSA FOIA's internal Python course
 
 ### Misc
 * [The Art of Computer Programming](https://www.worldcat.org/title/art-of-computer-programming/oclc/1104392633)
