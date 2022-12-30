@@ -35,6 +35,45 @@ date: 2021-07-12
 * [OG School Stuff](https://web.archive.org/web/20021026230934/http://www.aaronsw.com/school/2001/09/13/)
 //todo: find and add all of his Stanford posts, academic research fraud, and Google locking his account temp (2006 est.). 
 
+## Programming
+
+# C#
+* Microsoft's docs
+* The C# Programming Language
+* C# in Depth by Skeet
+
+# C++
+* [C++ Concurrency in Action](https://www.worldcat.org/title/c-concurrency-in-action-second-edition/oclc/1099553221)
+* [Effective Modern C++](https://www.worldcat.org/title/effective-modern-c-42-specific-ways-to-improve-your-use-of-c11-and-c14/oclc/884480640)
+* [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+* The C++ Programing Language
+
+//Add Herb Suter Books and the C++ book by the creator for his Texas college course on C++
+# C
+* K&R/The C Programming Language
+* [Caltech's link to C style guide](http://users.cms.caltech.edu/~mvanier/CS11_C/misc/c_style_guide.html)
+* [Modern C](https://www.manning.com/books/modern-c)
+* [C A Software Engineering Approach]([https://www.manning.com/books/modern-c](https://www.amazon.com/exec/obidos/tg/detail/-/0387946756/qid=1105080220/sr=8-2/ref=sr_8_xs_ap_i2_xgl14/002-5507667-6311230?v=glance&s=books&n=507846))
+* [Expert C Programming: Deep C Secrets](https://www.amazon.com/exec/obidos/ASIN/0131774298/qid=1105080503/sr=2-1/ref=pd_ka_b_2_1/002-5507667-6311230)
+* [Caltech's CS 11](http://users.cms.caltech.edu/~mvanier/CS11_C/)
+* [Effective C](https://www.amazon.com/Effective-Introduction-Professional-Robert-Seacord/dp/1718501048)
+* [Secure Coding in C and C++](https://www.amazon.com/Secure-Coding-SEI-Software-Engineering-ebook/dp/B00C0OBZI0?ref_=ast_sto_dp)
+* [CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c)
+
+# Java
+* The Java Programming language
+* Effective Java
+* Elements of Programming Interviews in Java
+* Intellij/Eclipse are good IDEs. I perfer Intellij
+
+#Python
+* [Learning Python](https://www.worldcat.org/title/learning-python/oclc/1061273329)
+
+#Misc
+* [The Art of Computer Programming](https://www.worldcat.org/title/art-of-computer-programming/oclc/1104392633)
+* [Oxford's Computer Science reading/resources](https://www.cs.ox.ac.uk/admissions/undergraduate/why_oxford/background_reading.html)
+* Practical Reverse Engineering
+
 ## Charity
 * [GiveWell](https://en.wikipedia.org/wiki/GiveWell) 
 * [Effective altruism](https://en.wikipedia.org/wiki/Effective_altruism)
@@ -57,17 +96,6 @@ date: 2021-07-12
 * [IRS/Treasury find CPA etc.](https://irs.treasury.gov/rpo/rpo.jsf)
 * [Natural Diaster prep](https://www.ready.gov/)
 * [US Labor rights](https://www.worker.gov/)
-
-## Programming
-* [C++ Concurrency in Action](https://www.worldcat.org/title/c-concurrency-in-action-second-edition/oclc/1099553221)
-* [The Art of Computer Programming](https://www.worldcat.org/title/art-of-computer-programming/oclc/1104392633)
-* [Effective Modern C++](https://www.worldcat.org/title/effective-modern-c-42-specific-ways-to-improve-your-use-of-c11-and-c14/oclc/884480640)
-* [Learning Python](https://www.worldcat.org/title/learning-python/oclc/1061273329)
-* [Oxford's Computer Science reading/resources](https://www.cs.ox.ac.uk/admissions/undergraduate/why_oxford/background_reading.html)
-* The C Programming Language
-* The C++ Programing Language
-* The Java Programming language
-* Effective Java
 
 ## Security
 //Add myg0t/half life 2/Valve things, and ytcracker/cam0 (currently works at Amazon)
