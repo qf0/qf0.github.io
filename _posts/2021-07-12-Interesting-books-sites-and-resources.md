@@ -37,19 +37,19 @@ date: 2021-07-12
 
 ## Programming
 
-# C#
+### C#
 * Microsoft's docs
 * The C# Programming Language
 * C# in Depth by Skeet
 
-# C++
+### C++
 * [C++ Concurrency in Action](https://www.worldcat.org/title/c-concurrency-in-action-second-edition/oclc/1099553221)
 * [Effective Modern C++](https://www.worldcat.org/title/effective-modern-c-42-specific-ways-to-improve-your-use-of-c11-and-c14/oclc/884480640)
 * [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * The C++ Programing Language
 
 //Add Herb Suter Books and the C++ book by the creator for his Texas college course on C++
-# C
+### C
 * K&R/The C Programming Language
 * [Caltech's link to C style guide](http://users.cms.caltech.edu/~mvanier/CS11_C/misc/c_style_guide.html)
 * [Modern C](https://www.manning.com/books/modern-c)
@@ -60,19 +60,21 @@ date: 2021-07-12
 * [Secure Coding in C and C++](https://www.amazon.com/Secure-Coding-SEI-Software-Engineering-ebook/dp/B00C0OBZI0?ref_=ast_sto_dp)
 * [CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c)
 
-# Java
+### Java
 * The Java Programming language
 * Effective Java
 * Elements of Programming Interviews in Java
 * Intellij/Eclipse are good IDEs. I perfer Intellij
 
-#Python
+### Python
 * [Learning Python](https://www.worldcat.org/title/learning-python/oclc/1061273329)
 
-#Misc
+### Misc
 * [The Art of Computer Programming](https://www.worldcat.org/title/art-of-computer-programming/oclc/1104392633)
 * [Oxford's Computer Science reading/resources](https://www.cs.ox.ac.uk/admissions/undergraduate/why_oxford/background_reading.html)
 * Practical Reverse Engineering
+
+//Add the good windows debug book. I think it was called something like Windbg advance or something. It isn't Windows internals.
 
 ## Charity
 * [GiveWell](https://en.wikipedia.org/wiki/GiveWell) 
