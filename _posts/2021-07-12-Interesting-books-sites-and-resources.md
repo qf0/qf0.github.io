@@ -20,6 +20,7 @@ date: 2021-07-12
 * [Steve Job's resume](https://web.archive.org/web/20091126173637/http://homepage.mac.com/steve/Resume.html)
 * [Reid Barton's resume](https://web.archive.org/web/20090824074428/http://web.mit.edu/rwbarton/Public/resume.pdf) 
 * [Sergey Brin's resume](http://infolab.stanford.edu/~sergey/resume.html)
+* [Singapore's kid resume/site](https://dzuizz.com/)
 
 //todo: Find and add the guys resume who attended community college and then worked for Rentech after earning his PhD.
 
