@@ -10,7 +10,5 @@ One Reddit user stated that getting a secured card would be easier for college s
 One thread gave the advice of getting the statement date, and due date. Then paying all of the balance expect less than 10%, so the statement will show 10% or less than utilization percentile and thus give a higher FICO score. That method has worked very well for me. Also not missing a due date, and paying on time or setting up payments. Though that requires you to have the money to be able to pay that amount off etc. The interest rate seems higher than credit union rates, so if I wanted to borrow money, then I'd recommend going to a credit union.   
 
 Useful FICO Score Reverse Engineered Posts:
-
 [FICO 8 Reverse Engineered Reddit Thread](https://archive.is/dJQ6a)
-
 [Fico Forums Reverse Engineered thread](https://ficoforums.myfico.com/t5/Understanding-FICO-Scoring/Credit-Scoring-Primer-pub-5-17-20/m-p/6023348/highlight/true)
