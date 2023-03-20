@@ -22,7 +22,7 @@ date: 2021-07-12
 * [Sergey Brin's resume](http://infolab.stanford.edu/~sergey/resume.html)
 * [Singapore's kid resume/site](https://dzuizz.com/)
 
-//todo: Find and add the guys resume who attended community college and then worked for Rentech after earning his PhD.
+//todo: Find and add the guys resume who attended a community college and then worked for Rentech after earning his PhD.
 
 //Add the very impressive other RenTech resume
 
@@ -129,6 +129,7 @@ date: 2021-07-12
 
 ## Books/Authors/Misc
 
+* Julia Fox
 * Thomas Sowell
 * John Holt
 * Moral of mazes
