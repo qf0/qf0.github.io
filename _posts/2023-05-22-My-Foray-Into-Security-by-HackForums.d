@@ -4,7 +4,7 @@ title: "My Foray Into Security by HackForums.net"
 date: 2023-05-22
 ---
 
-Like others, I got in to computer security at least the web application/PC side by discovering HackForums.net (HF) by doing a Google search for a, "Hacking site". I quickly signedup in 2012 after lurking the forums for a while.
+Some folks started off by doing AOL/AIM hacking like Zuckerberg/ytcracker, but I got in to computer security at least the web application/PC side by discovering HackForums.net (HF) by doing a Google search for a "Hacking site" after watching a YouTube video about "Anonymous" or as I like to say now, "Anonymouse/Anonymoose". I quickly signedup in 2012 after lurking the forums for a while.
 What is a "RAT", or "botnet"? I wondered after seeing it on HF. Soon after, I had my Darkcomet stub, and a few infections by following a tutorial on HF with my home IP... I won't say my handles, or any other PII, because my old posts
 are embarrassing, and I was a young skid (script kiddie) back then. 
 
