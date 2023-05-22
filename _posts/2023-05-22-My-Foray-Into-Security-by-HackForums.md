@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Foray Into Security by HackForums.net"
+title: "My Foray Into Security by HackForums"
 date: 2023-05-22
 ---
 
