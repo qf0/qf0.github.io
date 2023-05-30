@@ -3,6 +3,10 @@ layout: post
 title: "Useful Resources for Security Newcommers from FAANG Companies"
 date: 2023-05-29
 ---
+
+Internships with pay data: https://github.com/qf0/qf0.github.io/blob/main/files/STEM%20Internships%20spreadsheet.xlsx
+Use H1B data, glassdoor, Linkedin, Google, or search the job description/law suits for pay data if it isn't listed.
+
 From Google:
 
 Career advice:
