@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Useful Resources for Security Newcommers from FAANG Companies"
+title: "Useful Resources for Security Newcomers from FAANG Companies"
 date: 2023-05-29
 ---
 
