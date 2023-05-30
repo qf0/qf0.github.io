@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Useful Resources for Security Newcommers"
+title: "Useful Resources for Security Newcommers from FAANG Companies"
 date: 2023-05-29
 ---
+From Google:
 
 Career advice:
 
@@ -153,6 +154,7 @@ Local Defcon: https://www.defcon.org/html/defcon-groups/dc-groups-index.html
 
 BSides: http://www.securitybsides.com/w/page/12194156/FrontPage
 
+From Amazon:
 Amazon loop interview prep: https://www.youtube.com/watch?v=Vh20A2TMVKE
 
 Amazon phone screen prep: https://www.youtube.com/watch?v=A-SzF5xYJPY
