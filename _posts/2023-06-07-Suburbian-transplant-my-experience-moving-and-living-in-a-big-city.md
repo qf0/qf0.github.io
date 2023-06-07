@@ -23,4 +23,4 @@ Moving. Having to reverse a parking spot to load my rented moving truck, and nav
 
 I've since moved back to suburbia due to the cons listed ^. 
 
-0. (https://www.fmcsa.dot.gov/protect-your-move/search-move)[https://www.fmcsa.dot.gov/protect-your-move/search-mover]
+0. [DOT's Moving Registry](https://www.fmcsa.dot.gov/protect-your-move/search-mover)
