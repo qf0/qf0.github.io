@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Suburbian transplant to a big city"
+title: "Suburbian transplant: my experience moving and living in a big city"
 date: 2023-06-07
 ---
 
@@ -19,5 +19,8 @@ Pet and sometimes human waste on the sidewalks. Lots of apartments around, so pe
 High cost of living. High taxs etc.
 Construction. Always seemed like something was being worked on and it'd be annoying to have to adjust my path home due to it.
 Aggresive drivers. Having be extra careful crossing the road, because some will ignore basic driving principles & safety. Lots of honking.
+Moving. Having to reverse a parking spot to load my rented moving truck, and navigating the truck through tiny streets was not fun. I recommend buying a ubox or similar to move and to hire a Registered Mover [0].
 
 I've since moved back to suburbia due to the cons listed ^. 
+
+0. (https://www.fmcsa.dot.gov/protect-your-move/search-move)[https://www.fmcsa.dot.gov/protect-your-move/search-mover]
