@@ -32,7 +32,7 @@ I did the test which included some Math, English, and Essay questions, but again
 So, I applied the year after, and this time I received a call from a (703) number while I was working which lasted 45 minutes. I received another call at 0800, but I missed it due to sleeping in. I never heard from them after that.
 I thought about other ways about serving such as being a contractor and I interviewed at Raytheon and another company, but I got rejected from both even though I worked full-time and had 2 years of professional experience (I started working again in college).
 
-I got to ask the first ever CIA CTO (via volunteering via NSIN), and the former head of the Director of Operations for advise and they said this:
+I got to ask the first ever [CIA CTO](https://www.cia.gov/stories/story/cia-names-first-chief-technology-officer/) (via volunteering), and the former head of the Director of Operations for advise and they said this:
 CIA CTO's, Nand Mulchandani's advise/comment: "My experience getting hired at CIA was abnormal, so I wouldn't recommend following my path. Usually, CIA hires directly from college by grooming and they tend to be lifers (i.e. long lasting employees). It's rare for professionals to transfer from .com to .gov."
 Proof I got to ask him:
 ![cto](https://github.com/qf0/qf0.github.io/blob/main/files/CIA%20CTO.PNG)
