@@ -5,10 +5,10 @@ date: 2023-06-07
 ---
 
 I was in middle school, and often playing Battlefield & Call of Duty games. Also watching The Recruit, and The Unit along with veterns day at my public school made me more patriotic. 
-After school, I stumbled across the (https://www.youtube.com/watch?v=KCL6TikUoWQ)[BUD/s 234 documentary] and watched it. From then on, I knew I wanted to enlist in the military, but I was obese and knew I had to pass a fitness test to enlist.
+After school, I stumbled across the [BUD/s 234 documentary](https://www.youtube.com/watch?v=KCL6TikUoWQ) and watched it. From then on, I knew I wanted to enlist in the military, but I was obese and knew I had to pass a fitness test to enlist.
 
-So, I Googled Navy Seal fitness, and stumbled across (Stew Smith's programs)[https://www.stewsmithfitness.com/pages/frontpage]. I purchased his The 90 Day Beginner Plan book. Eventually, I lost over 105+lbs by the time I turned 16 years old. At my local gym,
-I saw (https://etoolbox.cnrc.navy.mil/warrior.html)[Navy Warrior Challenger] candidates taking the [Physical Screening Test](https://navyseals.com/nsw/physical-screening-tests/). I would often observe and sometimes workout with the scouts, because the Navy mentors wouldn't let me until I go to MEPs.
+So, I Googled Navy Seal fitness, and stumbled across [https://www.stewsmithfitness.com/pages/frontpage](Stew Smith's programs). I purchased his The 90 Day Beginner Plan book. Eventually, I lost over 105+lbs by the time I turned 16 years old. At my local gym,
+I saw [Navy Warrior Challenger](https://etoolbox.cnrc.navy.mil/warrior.html) candidates taking the [Physical Screening Test](https://navyseals.com/nsw/physical-screening-tests/). I would often observe and sometimes workout with the scouts, because the Navy mentors wouldn't let me until I go to MEPs/get a contract.
 After I turned 17, I went to a recruiter, but I was rejected due to having Autism Spectrum Disorder. I felt embarrassed, and angry. Active duty military member's who have ASD can stay, but since I was diagnosed prior to enlisting, I'm disqualified.
 
 So, I thought about other ways I can serve, and working at CIA or NSA came to mind. I started working tech jobs after I turned 18, and I needed to at least be going to college to qualify for an internship or scholarship.
@@ -39,5 +39,5 @@ Proof I got to ask him:
 
 Dr. James Olson's advice:
 ![advice](/files/Olson_Email.PNG)
-At this point, I've given up. I still apply, but haven't heard back last year or this year. I see lot's of movies involving characters who work for CIA and news articles about (CIA wanting to hire Gen Z)[https://www.washingtonian.com/2021/11/09/how-gen-z-and-the-tiktok-generation-are-becoming-spies/] (my gen)/(DOD investing money in video games)[https://www.vice.com/en/article/ake884/us-army-pay-streamers-millions-call-of-duty]
+At this point, I've given up. I still apply, but haven't heard back last year or this year. I see lot's of movies involving characters who work for CIA and news articles about [https://www.washingtonian.com/2021/11/09/how-gen-z-and-the-tiktok-generation-are-becoming-spies/](CIA wanting to hire Gen Z) (my gen)/[https://www.vice.com/en/article/ake884/us-army-pay-streamers-millions-call-of-duty](DOD investing money in video games)
 Perhaps the hype, and grooming allows them to cherry pick and therefor not select me due to some imperfections (my ASD etc.). 
