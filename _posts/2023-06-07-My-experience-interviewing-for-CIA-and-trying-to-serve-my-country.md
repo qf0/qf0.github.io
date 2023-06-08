@@ -40,5 +40,5 @@ Proof I got to ask him:
 
 Dr. James Olson's advice:
 ![advice](/files/Olson_Email.PNG)
-At this point, I've given up. I still apply, but haven't heard back last year or this year. I see lot's of movies involving characters who work for CIA and news articles about [CIA wanting to hire Gen Z](https://www.washingtonian.com/2021/11/09/how-gen-z-and-the-tiktok-generation-are-becoming-spies/) and [DOD investing money in video game](https://www.vice.com/en/article/ake884/us-army-pay-streamers-millions-call-of-duty)
+At this point, I've given up. I still apply, but haven't heard back last year or this year. I see lot's of movies involving characters who work for CIA and news articles about [CIA wanting to hire Gen Z](https://www.washingtonian.com/2021/11/09/how-gen-z-and-the-tiktok-generation-are-becoming-spies/) (My gen) and [The DOD investing money in video game](https://www.vice.com/en/article/ake884/us-army-pay-streamers-millions-call-of-duty)
 Perhaps the hype, and grooming allows them to cherry pick and therefor not select me due to some imperfections (my ASD etc.). 
