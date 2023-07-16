@@ -21,3 +21,5 @@ I want to note that if you want to uninstall the app, then you have to go to set
 Also, please scan unknown apps on VirusTotal. I wish there was an online hybrid-analysis like site for analysing APK files but there isn't as far I could tell. So, be wary of unknown apps. 
 
 To download an app/APK from Downloader's number shortner on PC browse to https://afv.news/<short number here> in a web browser. Looking at the mainifest is a good start for analysis. 
+
+Also, yes, the Downloader app is on the Google Play Store once again, [https://www.aftvnews.com/my-downloader-app-is-back-in-the-google-play-store-for-android-tv-google-tv-devices/](https://www.aftvnews.com/my-downloader-app-is-back-in-the-google-play-store-for-android-tv-google-tv-devices/).
