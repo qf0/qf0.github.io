@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SOG SMY and Other Service Opportunities"
+title: "SOF, SMU and Other USA Service Opportunities"
 date: 2023-07-25
 ---
 
