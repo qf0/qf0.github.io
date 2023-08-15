@@ -162,6 +162,7 @@ date: 2021-07-12
 * V/H/S
 
 ### Misc
+* Orange is The New Black
 * Hot Fuzz
 * Predestination
 * The Prisoner
@@ -182,7 +183,8 @@ date: 2021-07-12
 ## ISP/Phone
 * [Google Fi](https://fi.google.com/about/)
 * [Google Fiber](https://fiber.google.com/)
-* [Google Advance Protection](https://landing.google.com/advancedprotection/) 
+* [Google Advance Protection](https://landing.google.com/advancedprotection/)
+* Mint Mobile (cheaper than Google Fi and offers TOTP). Might be vulnerabile to t-mobile sim swapping by a retail employee. Since Google Fi uses T-Mobile and another phone network I'm not sure if it would be possible for a T-Mobile employee to sim swap a Google Fi subscripter. 
 
 ## Interview prep and self learning CS resources
 * [Missing part of my CS education](https://missing.csail.mit.edu/)
@@ -196,6 +198,11 @@ date: 2021-07-12
 * [leetcode](https://leetcode.com/)
 * elements of programming interviews books
 * purple squirrel book
+
+## Referrals
+Referrals help you start the interview process faster and might even bypass some steps in the process.
+* refer.me
+* teamblind.com Good to register even if you're interning. They don't check if an email address is now invalid.
 
 ## Websites
 * [Hacker News](https://news.ycombinator.com/)
