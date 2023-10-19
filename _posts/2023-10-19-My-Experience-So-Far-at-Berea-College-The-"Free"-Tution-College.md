@@ -16,16 +16,14 @@ The first week of student orientation was annoying and exhaustive. There were da
 
 The second week which included introduction to labor and classes was boring and anonnying. I still wish that the lecture slides and a recording of the lecture would be uploaded on Moodle (yes, Berea uses Moodle instead of Canvas like many other colleges), so I could skip the noise to the high signal stuff instead of feeling like I'm watching a boring YouTube video that I can't skip. 
 
-The third week and on were just more of the same stuff. Lectures with has more PowerSlides and boring unskipable lectures with sometimes a tirade and crowd participation mixed in. Work is just helping students when they ask or need help with CSisy stuff. 
-
-** Misc **
+The third week and on were just more of the same stuff. Lectures with has more PowerSlides and boring unskipable lectures with sometimes a tirade and crowd participation mixed in. Work is just helping students when they ask or need help with Computer Science stuff. 
 
 Berea's Student Health Insurance is garbage, and the local health services, specifically mental health doesn't accept insurance which screws over essentially every student at Berea [2]. There's free licensed therapist on campus, but they haven't been great in my experience and I think one shared HIPAA protected info internally to other Berea faculty (yes, I've reported the violation). 
 Also, the White House clinic nurse psychiatrist is against perscribing Adderal and Xanax. Since my mom is on Medicare and I can't afford to pay the premium for even private Bronze insurance, and since many mental health services places locally don't accept insurance at all, then I'm sort of screwed [4]. I wonder if other Berea students aren't able to get on their parents insurance (which is capped at age 26 btw) and have a similar issue. I've brought this up internally at Berea to the budsman and the person in charge of insurance, but haven't heard anything yet despite multiple follow ups.
 I got in trouble too for cursing in an email saying it's bit of a joke now that still nothing has been done which some Berea staff thought was uncivil (lol).
 
 Every student is required to work at least 10 hours per week, and I was lucky enough to work in Engineering/Computer Science as a lab assistant. However, I've heard horror stories of freshman being foisted in to janitor (at dining), or grounds jobs and they can't move out of them. Especially if they fired from their past job.
-There's a news article documenting how awful working in dining, and from the few people I know who work in dining, it does suck and Gus (Budsman) tried to censor the articles. Which I've heard, Berea fucked off after getting a legal letter from the Foundation for Individual Rights in Education [5][6]. Speaking of The Berea Torch,
+There's news article documenting how awful working in dining, and from the few people I know who work in dining, it does suck and Gus (the Budsman) tried to censor the articles. Which I've heard, that Berea fucked off after getting a legal letter from the Foundation for Individual Rights in Education [5][6]. Speaking of The Berea Torch,
 I told The Berea Torch founder/writier Ülvi Gitaliyev about the Berea medicial issue, but was told: "We aren't your slave" and I replied "So, I'm supposed to do your job for you and write the entire article myself?", he: "well we aren't paid", me: "There's lots of journalists not paid that still investigate and write thing", him: "well we don't have time. As you know Berea is pretty busy", me: "...", him: "send us more information.". 
 So I figured I'd go ahead and write about it myself. 
 
