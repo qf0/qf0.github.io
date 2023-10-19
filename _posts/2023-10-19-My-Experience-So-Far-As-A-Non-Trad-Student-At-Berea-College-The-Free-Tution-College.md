@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Experience So Far at Berea College: The Free Tution College"
+title: "My Experience So Far at Berea College The Free Tution College"
 date: 2023-10-19
 ---
 
@@ -24,7 +24,14 @@ I got in trouble too for cursing in an email saying it's bit of a joke now that 
 
 Every student is required to work at least 10 hours per week, and I was lucky enough to work in Engineering/Computer Science as a lab assistant. However, I've heard horror stories of freshman being foisted in to janitor (at dining), or grounds jobs and they can't move out of them. Especially if they fired from their past job.
 There's news article documenting how awful working in dining, and from the few people I know who work in dining, it does suck and Gus (the Budsman) tried to censor the articles. Which I've heard, that Berea fucked off after getting a legal letter from the Foundation for Individual Rights in Education [5][6]. Speaking of The Berea Torch,
-I told The Berea Torch founder/writier Ülvi Gitaliyev about the Berea medicial issue, but was told: "We aren't your slave" and I replied "So, I'm supposed to do your job for you and write the entire article myself?", he: "well we aren't paid", me: "There's lots of journalists not paid that still investigate and write thing", him: "well we don't have time. As you know Berea is pretty busy", me: "...", him: "send us more information.". 
+I told The Berea Torch founder/writier Ülvi Gitaliyev about the Berea medicial issue, and I had the following conversation with him
+Him: "We aren't your slave" 
+Me: "So, I'm supposed to do your job for you and write the entire article myself?" 
+Him: "well we aren't paid"
+Me: "There's lots of journalists not paid that still investigate and write thing"
+him: "well we don't have time. As you know Berea is pretty busy"
+me: "..."
+him: "send us more information.". 
 So I figured I'd go ahead and write about it myself. 
 
 The "Free Tution Promise" is bit misleading or a scam, because there's many students who still pay out of pocket, and one student who is international still has to pay $20,000 per year I recall. It's less than other colleges, sure, but not 100% free.
