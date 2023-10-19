@@ -46,7 +46,7 @@ I often hear Berea employees talking about the Berea "community" and President N
 0. [Berea's Educational Opportunity Commitment](https://www.berea.edu/the-great-commitments/educational-opportunity)
 1. [Stanford Diary Day 3 (CBA to find Day 1)](https://web.archive.org/web/20071013131812/http://www.aaronsw.com/weblog/001421)
 2. [Berea's Overview of Student Health Insurance](https://www.berea.edu/life-at-berea/student-life/student-health-care)
-3. ![img](https://github.com/qf0/qf0.github.io/blob/main/files/Google_Review.png)
+3. ![https://github.com/qf0/qf0.github.io/blob/main/files/Google_Review.png](https://github.com/qf0/qf0.github.io/blob/main/files/Google_Review.png)
 4. [Health Insurance Levels](https://www.healthcare.gov/choose-a-plan/plans-categories/)
 5. [The Berea Torch Dining Student Job Horror Story](https://bereatorch.com/2022/02/17/blisters-on-your-hands-and-food-thrown-in-your-face-interview-with-an-anonymous-student-worker-at-dining/)
 6. [Richmond Article About Censoring](https://www.richmondregister.com/news/independent-student-paper-accuses-berea-college-of-censorship/article_2c9a9ae9-e0f6-5a7f-a8a6-06424df58500.html)
