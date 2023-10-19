@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Experience So Far at Berea College The "Free" Tution College"
+title: "My Experience So Far at Berea College The Free Tution College"
 date: 2023-10-19
 ---
 
