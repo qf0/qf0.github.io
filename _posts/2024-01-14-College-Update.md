@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "College Update"
-date: 2024-14-24
+date: 2024-01-14
 ---
 Welp, I finished my first semester at Berea, and I've started the second semester. It's very boring here and I want to go back to working full-time. The Computer Science classes are super easy. Last semester I got a 3.0+ GPA and I skipped classes often and stopped reading the textbook after midterms.
 I'm still fighting some accommodation saga and drama. On the plus side I'm a full-ride scholarship and I think of college as a free vacation. 
