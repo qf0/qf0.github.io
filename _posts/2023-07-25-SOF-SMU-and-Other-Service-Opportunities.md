@@ -5,7 +5,7 @@ date: 2023-07-25
 ---
 
 When I was 15, I knew I wanted to serve my country, and I even lost 100+lbs & did unoffical workouts with U.S. Navy Special Warfare hopefuls who took the Physical Screening Test (PST) at the recreation center I worked out at.
-I wanted to enlist as either the Navy Diver (ND) or Special Operator (SO/Seal) rating. Unfortunately, my ADHD/Dyslexia/ASD among other things disqualified me. All of those Stew Smith or the official sealswcc Physical Training Guide were for naught.  
+I wanted to enlist as either the Navy Diver (ND) or Special Operator (SO/Seal) rating. Unfortunately, my ADHD/Dyslexia/ASD among other things disqualified me. All of those Stew Smith or the official sealswcc Physical Training Guide work outswere for naught.  
 I even convinced my mom to sign my enlist form after I turned 17. 
 
 Looking back though, I'm somewhat glad I got rejected, because even the fitest people I trained with who had auto qualifying PST scores either got injuried or dropped on request (DOR/quit). They ended up being assigned as an undesignated sailor.
