@@ -21,20 +21,19 @@ date: 2021-07-12
 * [Reid Barton's resume](https://web.archive.org/web/20090824074428/http://web.mit.edu/rwbarton/Public/resume.pdf) 
 * [Sergey Brin's resume](http://infolab.stanford.edu/~sergey/resume.html)
 * [Singapore's kid resume/site](https://dzuizz.com/)
-
-//todo: Find and add the guys resume who attended a community college and then worked for Rentech after earning his PhD.
-
-//Add the very impressive other RenTech resume
+* [Philp Gale's resume](https://web.archive.org/web/20020206113455/http://chaotique.mit.edu/~pcg/resume.html)
+* [Dr. Whalen RenTech resume](https://web.archive.org/web/20190428065951/http://zornslemma.com/dpzwhalen_resume.pdf)
+* [Dr. Frey's RenTech resume](https://web.archive.org/web/20150620022429/http://www.ams.sunysb.edu/~frey/Biographical/Resume_RJFrey_20060907_11.pdf) Community College -> PhD -> RenTech
 
 ## Interesting fraudsters etc.
 * [Stephen Glass](https://en.wikipedia.org/wiki/Stephen_Glass)
-* https://web.archive.org/web/20051027050024/http://www.aaronsw.com/weblog/001616
-* https://www.thecrimson.com/flyby/article/2010/5/24/yale-later-harvard-caught/
+* [https://web.archive.org/web/20051027050024/http://www.aaronsw.com/weblog/001616](https://web.archive.org/web/20051027050024/http://www.aaronsw.com/weblog/001616)
+* [https://www.thecrimson.com/flyby/article/2010/5/24/yale-later-harvard-caught/](https://www.thecrimson.com/flyby/article/2010/5/24/yale-later-harvard-caught/)
 
 ## Interesting Aaron Swartz Blog posts
 * [OG School Stuff](https://web.archive.org/web/20010502005216/http://swartzfam.com/aaron/school/2001/04/05/)
 * [OG School Stuff](https://web.archive.org/web/20021026230934/http://www.aaronsw.com/school/2001/09/13/)
-//todo: find and add all of his Stanford posts, academic research fraud, and Google locking his account temp (2006 est.). 
+//todo: find and add all of his Stanford posts, academic research fraud, and Google locking his account (2006 est.). 
 
 ## Programming
 
@@ -185,7 +184,8 @@ date: 2021-07-12
 * [Google Fiber](https://fiber.google.com/)
 * [Google Advance Protection](https://landing.google.com/advancedprotection/)
 * Mint Mobile (cheaper than Google Fi and offers TOTP). Might be vulnerabile to t-mobile sim swapping by a retail employee. Since Google Fi uses T-Mobile and another phone network I'm not sure if it would be possible for a T-Mobile employee to sim swap a Google Fi subscripter. 
-
+* US Mobile is as cheap at Mint Mobile as well as offers various sim swap protections + unlimited data.
+  
 ## Interview prep and self learning CS resources
 * [Missing part of my CS education](https://missing.csail.mit.edu/)
 * [teachyourselfcs](https://teachyourselfcs.com/)
