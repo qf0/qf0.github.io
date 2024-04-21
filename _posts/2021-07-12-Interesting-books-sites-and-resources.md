@@ -12,7 +12,7 @@ date: 2021-07-12
 * [More Money Than God](https://en.wikipedia.org/wiki/More_Money_Than_God)
 
 ## Shortcuts/keybinds
-* Shift & questionmark to show menu of keybinds on gmail.
+* Shift & ? to show menu of keybinds in gmail.
 
 ## Interesting/Notable OSINT resumes
 * [Aaron Swartz's resume 1](https://web.archive.org/web/20110814215315/http://www.aaronsw.com/about)
