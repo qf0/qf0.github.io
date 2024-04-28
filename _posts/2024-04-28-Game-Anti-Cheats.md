@@ -8,8 +8,8 @@ I used to hang out with a lot of "blackhat" type folks like Teh1337 aka Carter F
 
 PC Anti-cheats:
 Tier 1,
-Battleeye,
-EAC
+Battleye,
+EAC, 
 ESEA
 Tier 5,
 VAC
