@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mark Zuckerberg was a AOL hacker"
+title: "Mark Zuckerberg was an AOL hacker"
 date: 2020-01-28
 ---
 
