@@ -11,7 +11,11 @@ date: 2021-07-12
 * [When Genius Fails](https://en.wikipedia.org/wiki/When_Genius_Failed)
 * [More Money Than God](https://en.wikipedia.org/wiki/More_Money_Than_God)
 
-## Shortcuts/keybinds
+## Google and Chromium Official Tools
+Screenshoting and recording:
+* [Google's Official Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
+* [Chromium Flag](https://www.wikihow.com/Screenshot-on-Chrome#Using-Chrome-Flags)
+ Shortcuts/keybinds:
 * Shift & ? to show menu of keybinds in gmail.
 
 ## Interesting/Notable OSINT resumes
