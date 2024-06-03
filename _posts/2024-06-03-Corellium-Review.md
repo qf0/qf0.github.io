@@ -12,7 +12,7 @@ It took about 5-10 minutes to create an iPhone 15 Pro Max device, and it came pr
 Apple's App Store doesn't work, and you have to install the .ipa's via sideloading. So, I thought ok easy I'll just grab it from [Armconverter](https://armconverter.com/decryptedappstore/us), wrong!!! You'll also have to re-sign it since it doesn't accept app store signed applications. I just gave up after that, because I didn't want to setup an Apple free Development app and test out various Linux scripts to sign .ipa files.
 That irked me a lot, but oh well. Also, I noticed that they offer the latest iOS devices, but only old Android phones. So I couldn't create a virtual Pixel 8 device. To be fair, they started off doing iOS and I can just install Android Studio and start an emulated Pixel or Android TV. 
 
-[Android Offerings](https://raw.githubusercontent.com/qf0/qf0.github.io/main/files/Android.png)
-[iOS Offerings](https://raw.githubusercontent.com/qf0/qf0.github.io/main/files/Android.png)
+![Android Offerings](https://raw.githubusercontent.com/qf0/qf0.github.io/main/files/Android.png)
+![iOS Offerings](https://raw.githubusercontent.com/qf0/qf0.github.io/main/files/Android.png)
 
 
