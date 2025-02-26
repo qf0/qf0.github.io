@@ -1,4 +1,4 @@
-Oh, well hello there stranger! Thanks for checking out my weblog/Website. You may also use https://qf0.org to visit this blog.
+Oh, well hello there stranger! Thanks for checking out my weblog/Website. 
 
 ## About this Website/Blog
 
