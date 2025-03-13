@@ -1,4 +1,4 @@
-Use markdown to center this ---
+---
 layout: post
 title: "Corellium, a iOS Virtualization Service Review"
 date: 2024-06-03
