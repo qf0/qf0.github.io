@@ -12,4 +12,4 @@ Surprisingly, it played and worked fine via Android Auto! Afterwards, I tried pl
 
 So, now I can listen to local music and FireFox YouTube Music videos as normal, but just can't skip or skip to the next song via my Toyota's infotainment system. Which hardly worked well anyway when it did function properly. So, since I have UBlock Origin instaleld in my Pixel's FireFox Browser, I can listen to music ad-free without giving Google any of my money for playing via the YouTube Music App.
 
-YouTube NonStop, and SponorBlock are good extenstions for chill experiences for the FireFox Pixel Android Auto experience. 
+YouTube NonStop, and SponsorBlock are good extenstions for chill experiences for the FireFox Pixel Android Auto experience. There's ... other methods to crack/patch the YouTube Android app directly, or sideloading a chill version of YouTube with SponsorBlock + UBlock Origin harded code, but it's risky to do so since there's a risk of the cracks being malicious. 
