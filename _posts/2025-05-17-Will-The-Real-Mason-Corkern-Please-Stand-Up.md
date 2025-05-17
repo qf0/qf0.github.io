@@ -5,7 +5,8 @@ date: 2025-05-17
 ---
 After doing a Google Search of my name, Mason Corkern, I discovered that another Mason Corkern with the same age and who also lives in Louisiana pops up his serious criminal charges. Of course this isn't great and I'm afraid that people will mistake him for me, since I don't have many photos or any social media pages with my personal information available. So fearing employment issues (it's already hard out there), I've decided to self-dox myself.
 
-<img src="https://raw.githubusercontent.com/qf0/qf0.github.io/refs/heads/main/files/MySpace_Mason.jpg" width="600" height="600" alt="photo">
+![photo](https://raw.githubusercontent.com/qf0/qf0.github.io/refs/heads/main/files/MySpace_Mason.jpg =300x300)
+
 I'm 24 year old Mason Corkern of Denham Springs, Louisiana. Social media wise, I only have BlueSky (inactive), this GitHub profile, Hacker News and a LinkedIn profile. Here's some links to my public accounts: Company Research [Post](https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami) with my photo, [LinkedIn](https://www.linkedin.com/in/w1n/) and Hacker News [account](https://news.ycombinator.com/user?id=b8). Any other account or person with my name is not me. 
 
 
