@@ -2,13 +2,64 @@
 layout: default
 title: qf0
 ---
-## Who.ru
-![photo](https://github.com/qf0/qf0.github.io/blob/main/files/MySpace_Mason.jpg)
-I'm Mason Corkern from Denham Springs, Louisiana. Growing up, I became interested in technology when I discovered game modding on my Xbox 360. Being homeschooled allowed me a lot of time to devote to learn cybersecurity and other topics. After I turned 18, I worked for Electronic Arts on Apex legends and then was hired by IBM as a programming apprentice. When I was 20, I moved to Chicago and worked for a cybersecurity consulting firm. Education wise I'm mostly an autodidact, but I've studied at Tulane and Berea College.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who.ru</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            font-family: sans-serif;
+        }
 
+        .profile-section {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
 
+        .profile-image {
+            max-width: 300px; /* Adjust as needed */
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+        }
 
-## About This Weblog
-		<div class="blurb">
-			<p>This blog is where I post my ramblings, thoughts, write ups, and stories. I mainly post about things related to computer security. Aaron Swartz's weblog was a huge inspiration to start this project. I hope that you enjoy your stay.</p>
-		</div> 
+        .profile-text {
+            flex: 1;
+            min-width: 300px;
+        }
+
+        .blurb {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Who.ru</h2>
+        <div class="profile-section">
+            <img src="https://github.com/qf0/qf0.github.io/blob/main/files/MySpace_Mason.jpg" alt="Mason Corkern" class="profile-image">
+            <div class="profile-text">
+                <p>I'm Mason Corkern from Denham Springs, Louisiana. Growing up, I became interested in technology when I discovered game modding on my Xbox 360. Being homeschooled allowed me a lot of time to devote to learn cybersecurity and other topics. After I turned 18, I worked for Electronic Arts on Apex legends and then was hired by IBM as a programming apprentice. When I was 20, I moved to Chicago and worked for a cybersecurity consulting firm. Education wise I'm mostly an autodidact, but I've studied at Tulane and Berea College.</p>
+            </div>
+        </div>
+
+        <h2>About This Weblog</h2>
+        <div class="blurb">
+            <p>This blog is where I post my ramblings, thoughts, write ups, and stories. I mainly post about things related to computer security. Aaron Swartz's weblog was a huge inspiration to start this project. I hope that you enjoy your stay.</p>
+        </div>
+    </div>
+</body>
+</html>
